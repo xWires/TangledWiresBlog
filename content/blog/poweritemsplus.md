@@ -5,7 +5,7 @@ date: 2024-05-31
 tags:
     - Java
     - PowerItems
-    - PowerItems+
+    - PowerItemsPlus
     - Minecraft Plugins
 ---
 The code of PowerItems isn't great. I wrote a lot of it a few years ago when I was still fairly new to Java. However, it did fulfil its purpose: to allow Minecraft server admins to create items that look more interesting than normal items.
