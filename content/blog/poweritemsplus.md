@@ -4,6 +4,7 @@ description: A complete rewrite of PowerItems with all new features.
 date: 2024-05-31
 tags:
     - Java
+    - PowerItems
     - PowerItems+
     - Minecraft Plugins
 ---
