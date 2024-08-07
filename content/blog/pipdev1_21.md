@@ -1,5 +1,5 @@
 ---
-title: PowerItemsPlus Development Update #1
+title: PowerItemsPlus Development Update 1
 description: PowerItemsPlus is being made to work with 1.21.
 date: 2024-08-07
 tags:
