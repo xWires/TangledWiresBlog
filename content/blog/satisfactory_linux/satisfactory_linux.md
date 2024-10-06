@@ -30,15 +30,15 @@ Once you have done that, you need to set the launch options for Satisfactory.
 
 - First, open the properties for Satisfactory
 
-<img src="./steam_properties_button.png">
+{% image "./steam_properties_button.png", "Screenshot of Steam with the Properties button highlighted" %}
 
 - Now, paste `gamescope --force-grab-cursor -e -f -w 1920 -h 1080 -- %command% -vulkan` in the Launch Options box, replacing "1920" and "1080" with the width and height of your display.
 
-<img src="./steam_general_settings.png" width="50%">
+{% image "./steam_general_settings.png", "Screenshot showing the General tab of the Properties menu for Satisfactory" %}
 
 - Lastly, go to the Compatibility tab and set the version of Proton to 8.0-5.
 
-<img src="./steam_proton8.png" width="50%">
+{% image "./steam_proton8.png", "Screenshot showing a dropdown menu of Proton versions with Proton 8.0-5 highlighted" %}
 
 ---
 
