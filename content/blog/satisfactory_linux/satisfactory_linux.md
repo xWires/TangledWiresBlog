@@ -18,11 +18,20 @@ First, you will need to install "gamescope" from your distro's package manager.
 
 Examples:
 
-Debian based distros (Ubuntu, Linux Mint, etc.): `apt install gamescope`
+Debian based distros (Ubuntu, Linux Mint, etc.):
+```bash
+apt install gamescope
+```
 
-Fedora or RHEL: `dnf install gamescope`
+Fedora or RHEL:
+```bash
+dnf install gamescope
+```
 
-Arch based distros (EndeavourOS, Manjaro Linux, etc.): `pacman -S gamescope`
+Arch based distros (EndeavourOS, Manjaro Linux, etc.):
+```bash
+pacman -S gamescope
+```
 
 ---
 
