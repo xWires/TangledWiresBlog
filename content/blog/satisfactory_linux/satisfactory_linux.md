@@ -1,7 +1,7 @@
 ---
 title: Running Satisfactory on Linux
 description: A short guide to running Satisfactory on Linux.
-date: 2024-10-6
+date: 2024-10-06
 ---
 If you already know how to install packages and set launch options for games on Steam you can use "The Short Version", if you don't, read "The Long Version" for an explanation.
 <details>
