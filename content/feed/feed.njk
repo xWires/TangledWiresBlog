@@ -10,6 +10,7 @@ permalink: /feed/feed.xml
 	<link href="{{ metadata.url | addPathPrefixToFullUrl }}"/>
 	<updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
 	<id>{{ metadata.url }}</id>
+	<icon>https://tangledwires.xyz/images/xwires.png</icon>
 	<author>
 		<name>{{ metadata.author.name }}</name>
 		<email>{{ metadata.author.email }}</email>
