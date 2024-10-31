@@ -2,6 +2,8 @@
 title: Now on Modrinth!
 description: TangledWires plugins are coming to Modrinth
 date: 2024-10-29
+tags:
+    - Minecraft Plugins
 ---
 TangledWires plugins are coming to Modrinth!
 
