@@ -97,7 +97,7 @@ tags:
 {% image "./underground_80s_volunteer.png", "Robots don't sleep, they can test AND do your job. Volunteer for testing today" %}
 
 ### 1982
-- Aperture spent $70 on moon rocks to create "Conversion Gel", which when applied to a surface, would allow portals to be placed on it. Unfortunately, these moon rocks were extremely toxic and Cave Johnson became fatally ill. Testing began on the Conversion Gel to see if going through portals could get the poison out of his's blood. Since he knew that he was probably going to die, he instructed his engineers to create a way of uploading a brain into a computer, and if they were able to, use it on him.
+- Aperture spent $70 on moon rocks to create "Conversion Gel", which when applied to a surface, would allow portals to be placed on it. Unfortunately, these moon rocks were extremely toxic and Cave Johnson became fatally ill. Testing began on the Conversion Gel to see if going through portals could get the poison out of his blood. Since he knew that he was probably going to die, he instructed his engineers to create a way of uploading a brain into a computer, and if they were able to, use it on him.
 - If he died before the scientists were able to put him in a computer, they were told to force his assistant, Caroline, to be put in the computer instead.
 
 ### 198?
