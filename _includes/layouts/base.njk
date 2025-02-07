@@ -32,6 +32,8 @@
 		<style>{% getBundle "css" %}</style>
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
+
+		<script defer data-domain="blog.tangledwires.xyz" src="https://analytics.tangledwires.xyz/js/script.js"></script>
 	</head>
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
@@ -55,7 +57,12 @@
 			{{ content | safe }}
 		</main>
 
-		<footer></footer>
+		<footer>
+			<div style="display: flex; background-color: var(--background-color-darker); padding: 15px;">
+				<span>&copy; Copyright TangledWires 2025</span>
+				<a href="/legal/privacy" style="margin-left: auto">Privacy Policy</a>
+			</div>
+		</footer>
 
 		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
 	</body>
