@@ -1,6 +1,7 @@
 baseURL = 'https://blog.tangledwires.xyz/'
 languageCode = 'en-gb'
 title = 'TangledWires Blog'
+theme = ["plausible-hugo"]
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -63,6 +64,11 @@ title = 'TangledWires Blog'
   # do not include @
   creator = ""
   site = ""
+
+[params.plausible]
+  enable = true
+  domain = "blog.tangledwires.xyz"
+  selfhosted_domain = "analytics.tangledwires.xyz"
 
 [languages]
   [languages.en]
