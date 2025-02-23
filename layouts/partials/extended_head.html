@@ -1,2 +1,3 @@
 {{ partial "plausible_head.html" . }}
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/prism.css">
+{{ $styles := resources.Get "css/style.css" | minify }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}">
