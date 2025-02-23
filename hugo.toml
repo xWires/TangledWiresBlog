@@ -72,10 +72,10 @@ title = 'TangledWires Blog'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "TangledWires Blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "The blog of TangledWires"
       owner = ""
       keywords = ""
       copyright = ""
@@ -90,18 +90,14 @@ title = 'TangledWires Blog'
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "TangledWires Blog"
         logoHomeLink = "/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          url = "https://tangledwires.xyz/"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
