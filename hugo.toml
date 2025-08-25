@@ -64,12 +64,6 @@ title = 'TangledWires Blog'
   creator = ""
   site = ""
 
-[params.plausible]
-  enable = true
-  domain = "blog.tangledwires.xyz"
-  selfhosted_domain = "analytics.tangledwires.xyz"
-  gitstar = false
-
 [languages]
   [languages.en]
     languageName = "English"
